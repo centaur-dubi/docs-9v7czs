@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-q6p6iq.togelon77ars.site/sitemap.xml
